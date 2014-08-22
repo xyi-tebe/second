@@ -1,0 +1,4 @@
+Initial File 1 text in master branch
+
+
+before Additional changes to file 1
